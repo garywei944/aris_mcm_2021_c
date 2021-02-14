@@ -1,4 +1,5 @@
 # MCM 2021 Problem C
+RRS (Random Forest + ResNet-18 CNN + Spatial Distribution Reproduction Model) - A combined model to evaluate the accuracy of the Asian Giant Hornet sightings reported in Washington State.
 
 ## Overview
 This repository is cloned from the private one my team used for MCM/ICM 2021. I removed data from MCM and the figures that we used in our paper. But the data could be downloaded by the following instructions and the codes that plots the figure is preserved.  
