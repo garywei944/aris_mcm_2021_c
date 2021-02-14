@@ -1,0 +1,17 @@
+name: mcm_2021_c
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - anaconda
+  - pytorch
+  - torchvision
+  - torchaudio
+  - opencv
+  - imbalanced-learn
+
+# Important: please choose the only cuda version that your gpu use
+# For more infomation: https://pytorch.org/get-started/locally/
+  # - cpuonly
+  - cudatoolkit=11.0
