@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mcm_2021.iml" filepath="$PROJECT_DIR$/.idea/mcm_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aris_mcm_2021_c.iml" filepath="$PROJECT_DIR$/.idea/aris_mcm_2021_c.iml" />
     </modules>
   </component>
 </project>

@@ -13,5 +13,7 @@ dependencies:
 
 # Important: please choose the only cuda version that your gpu use
 # For more infomation: https://pytorch.org/get-started/locally/
-  # - cpuonly
-  - cudatoolkit=11.0
+  - cpuonly # Comment this line if you are going to use a gpu for training
+  # - cudatoolkit=11.0 # Uncomment this line if your are going to use a gpu for
+  #                      training, and change the version corresponding to the
+  #                      CUDA version in your system.
